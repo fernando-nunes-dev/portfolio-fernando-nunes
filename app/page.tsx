@@ -1,6 +1,5 @@
 import Image from 'next/image';
-import { Github, Linkedin, Mail, Phone, ArrowRight, Code, Palette, Users } from 'lucide-react';
-import Link from 'next/link';
+import { Github, Linkedin, Code, Palette, Users } from 'lucide-react';
 
 export default function HomePage() {
   return (
@@ -26,7 +25,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section id="about mt-2">
+  <section id="about" className="mt-2">
         <h2 className="text-3xl font-bold text-center text-cyan-400 mb-8">Sobre Mim</h2>
         <div className="bg-gray-800 text-center rounded-lg p-8 max-w-3xl mx-auto shadow-lg text-lg text-gray-300 space-y-4">
           <p>Sou Fernando Nunes, profissional com mais de 20 anos de experiência, sendo 15 na área de <strong>Comunicação Visual</strong>, atuando com CorelDRAW, Adobe Illustrator, Photoshop e operação de plotters, além de técnicas de acabamento e produção de peças visuais personalizadas.</p>

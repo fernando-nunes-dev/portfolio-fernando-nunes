@@ -1,22 +1,22 @@
-# Blog Pessoal – Fernando Nunes
+# Portfólio – Fernando Nunes
 
-Link projeto: https://blog-personal-fe.vercel.app
+Link do projeto: https://blog-personal-fe.vercel.app
 
 !![20250916-0609-04 4940708-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5ac5f94f-3f45-418f-9381-3cc4e8e12114)
 
 ## 📖 Sobre o Projeto
 
-Este é o meu blog pessoal, desenvolvido como parte do **Projeto 9 do curso de desenvolvimento Koru**. O objetivo inicial era criar um blog simples para praticar os conceitos fundamentais do **Next.js 15 com App Router**.
+Este é o meu portfólio pessoal e profissional, desenvolvido como parte do **Projeto 9 do curso de desenvolvimento Koru**. O objetivo inicial era criar um site simples para praticar os conceitos fundamentais do **Next.js 15 com App Router**, e o projeto foi moldado para funcionar como uma vitrine de trabalhos e habilidades.
 
-O projeto evoluiu de um blog de posts genéricos para um **portfólio dinâmico e pessoal**, que reflete minha jornada de transição de carreira para a área de tecnologia. A aplicação consome a API do GitHub para exibir meus repositórios mais relevantes de forma automática, mantendo o conteúdo sempre atualizado.
+O projeto evoluiu para um **portfólio profissional e dinâmico**, pensado para apresentação em processos seletivos e contatos profissionais. A aplicação consome a API do GitHub para exibir repositórios relevantes de forma automática, facilitando a demonstração de projetos, tecnologias utilizadas e estatísticas.
 
 ## ✨ Funcionalidades Principais
 
-* **Página Inicial Completa:** Uma apresentação com biografia, habilidades e experiências profissionais.
-* **Projetos Dinâmicos:** A seção de projetos consome a API do GitHub em tempo real para buscar e exibir meus repositórios, incluindo descrição, linguagem e estatísticas.
+* **Página Inicial Profissional:** Apresentação com biografia, competências e experiências voltadas para oportunidades de trabalho.
+* **Projetos Dinâmicos:** A seção de projetos consome a API do GitHub para buscar e exibir repositórios relevantes, mostrando descrição, linguagem e estatísticas.
 * **Design Responsivo:** Layout moderno e totalmente adaptável para dispositivos móveis, tablets e desktops, construído com Tailwind CSS.
 * **Interatividade:** Componentes interativos, como o botão de "Curtir" nos cards de projeto, construídos com React Hooks.
-* **Navegação Intuitiva:** Um menu de navegação fixo que facilita o acesso a todas as seções do blog.
+* **Navegação Intuitiva:** Um menu de navegação fixo que facilita o acesso a todas as seções do portfólio.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -49,12 +49,12 @@ Para rodar este projeto no seu ambiente local, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/fernando-nunes-dev/blog-personal-fe.git](https://github.com/fernando-nunes-dev/blog-personal-fe.git)
+    git clone https://github.com/fernando-nunes-dev/portifolio-fernando.git
     ```
 
 2.  **Navegue até o diretório:**
     ```bash
-    cd blog-personal-fe
+    cd portifolio-fernando
     ```
 
 3.  **Instale as dependências:**
@@ -72,3 +72,24 @@ Para rodar este projeto no seu ambiente local, siga os passos abaixo:
 ---
 
 *Este projeto é um reflexo do meu aprendizado contínuo e da minha dedicação à área de desenvolvimento de software.*
+
+## 📬 Contato Profissional
+
+Se você deseja entrar em contato para oportunidades de trabalho, parcerias ou consultoria, veja abaixo as formas mais diretas:
+
+- GitHub: https://github.com/fernando-nunes-dev
+- LinkedIn: https://www.linkedin.com/in/fernando-nunes-dev30/
+
+Caso prefira, envie uma mensagem pelo LinkedIn com a vaga ou proposta — respondo rapidamente e tenho disponibilidade para entrevistas técnicas e entrevistas por projeto.
+
+## 🤝 Como me contratar
+
+Eu estou aberto a posições de front-end, UI/UX colaborativo e projetos freelance relacionados a desenvolvimento web. Para processos seletivos, costumo enviar um portfólio resumido (PDF) com projetos selecionados e descrições técnicas. Para avançar no processo:
+
+1. Entre em contato pelo LinkedIn ou GitHub.
+2. Informe o tipo de vaga (CLT, PJ, freelance), escopo e local (remoto/híbrido/presencial).
+3. Posso fornecer um resumo técnico dos projetos e marcar uma conversa técnica.
+
+---
+
+Se quiser, eu também posso gerar um arquivo `PORTFOLIO-PITCH.md` ou um `PDF` curto com os principais projetos prontos para anexar em candidaturas — quer que eu gere isso agora?
