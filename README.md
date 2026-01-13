@@ -1,6 +1,6 @@
 # Portfólio – Fernando Nunes
 
-Link do projeto: https://blog-personal-fe.vercel.app
+Link do projeto: portfolio-fernando-nunes.vercel.app
 
 !![20250916-0609-04 4940708-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5ac5f94f-3f45-418f-9381-3cc4e8e12114)
 
